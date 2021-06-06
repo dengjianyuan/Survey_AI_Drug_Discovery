@@ -94,7 +94,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Side Notes: Successful Applications </i>
 
-- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (cka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Insilico Medicine)
+- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (aka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Insilico Medicine)
 - A Deep Learning Approach to Antibiotic Discovery (Cell 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0092867420301021?via%3Dihub) [[Code]](https://github.com/chemprop/chemprop/blob/master/README.md) (MIT CSAIL)
 - "BenevolentAI Announces First Patient Dosed In Its Atopic Dermatitis Clinical Trial" [[Link]](https://www.benevolent.com/news/benevolentai-announces-first-patient-dosed-in-its-atopic-dermatitis-clinical-trial?utm_medium=social&utm_source=twitter&utm_campaign=ptrk) (BenevolentAI)
 - "Exscientia Announces First AI-Designed Immuno-Oncology Drug to Enter Clinical Trials" [[Link]](https://www.exscientia.ai/news-insights/exscientia-first-ai-designed-immuno-oncology-drug-trial) (Exscientia)
@@ -191,7 +191,7 @@ This repository compiles a collection works on related areas, based on the manus
 <a name="graphinvent" />
 <b>GraphINVENT</b>
 
-- Graph Networks for Molecular Design (cka: GraphINVENT; ChemRxiv 2020) [[Paper]](https://chemrxiv.org/articles/preprint/Graph_Networks_for_Molecular_Design/12843137/1) [[Code]](https://github.com/MolecularAI/GraphINVENT)
+- Graph Networks for Molecular Design (aka: GraphINVENT; ChemRxiv 2020) [[Paper]](https://chemrxiv.org/articles/preprint/Graph_Networks_for_Molecular_Design/12843137/1) [[Code]](https://github.com/MolecularAI/GraphINVENT)
 - Practical Notes on Building Molecular Graph Generative Models (Applied AI Letters 2020) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ail2.18) [[Code]](https://github.com/MolecularAI/GraphINVENT)
 
 <a name="guacamol" />
@@ -216,8 +216,8 @@ This repository compiles a collection works on related areas, based on the manus
 <i>Task*: Molecular Property Prediction; Representation*: Images</i>
 
 - Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction (J Chem Inf Model 2017) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601) (Techs - CNN + SVM)
-- Chemception: a deep neural network with minimal chemistry knowledge matches the performance of expert-developed QSAR/QSPR models (cka: Chemception; arXiv 2017) [[Paper]](https://arxiv.org/pdf/1706.06689.pdf)
-- Toxic Colors: The Use of Deep Learning for Predicting Toxicity of Compounds Merely from Their Graphic Images (cka: Toxic Colors; J Chem Inf Model 2018) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/30063345/)
+- Chemception: a deep neural network with minimal chemistry knowledge matches the performance of expert-developed QSAR/QSPR models (aka: Chemception; arXiv 2017) [[Paper]](https://arxiv.org/pdf/1706.06689.pdf)
+- Toxic Colors: The Use of Deep Learning for Predicting Toxicity of Compounds Merely from Their Graphic Images (aka: Toxic Colors; J Chem Inf Model 2018) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/30063345/)
 - KekuleScope: prediction of cancer cell line sensitivity and compound potency using convolutional neural networks trained on compound images (J Cheminf 2019) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0364-5) [[Code]](https://github.com/isidroc/kekulescope) (Techs - CNN)
 - Learning Drug Functions from Chemical Structures with Convolutional Neural Networks and Random Forests (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00236) (Techs - CNN)
 - DEEPScreen: high performance drug–target interaction prediction with convolutional neural networks using 2-D structural compound representation (Chem Sci 2020) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc03414e#!divAbstract) [[Code]](https://github.com/cansyl/DEEPScreen)
@@ -240,20 +240,20 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecular Property Prediction; Representation*: SMILES Strings</i>
 
-- SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties (cka: SMILES2Vec; arXiv 2017) [[Paper]](https://arxiv.org/pdf/1712.02034.pdf)
-- Large-scale comparison of machine learning methods for drug target prediction on ChEMBL (cka:SmilesLSTM; Chem Sci 2018) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc00148k#!divAbstract) [[Code]](https://github.com/ml-jku/lsc) (Techs - RNN + GNN + Multi-Task Learning)
+- SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties (aka: SMILES2Vec; arXiv 2017) [[Paper]](https://arxiv.org/pdf/1712.02034.pdf)
+- Large-scale comparison of machine learning methods for drug target prediction on ChEMBL (aka:SmilesLSTM; Chem Sci 2018) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc00148k#!divAbstract) [[Code]](https://github.com/ml-jku/lsc) (Techs - RNN + GNN + Multi-Task Learning)
 
 <i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
 
-- Molecular de‑novo design through deep reinforcement learning (cka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: REINFORCE)
-- Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks (cka: CharRNN; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00512) (Techs - Transfer Learning)
+- Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: REINFORCE)
+- Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks (aka: CharRNN; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00512) (Techs - Transfer Learning)
 - Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design (ICLR 2018 Workshop) [[Paper]](https://openreview.net/pdf?id=Bk0xiI1Dz) (Techs - RL: A2C, PPO) 
-- Deep Reinforcement Learning for de novo Drug Design（cka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: REINFORCE)
+- Deep Reinforcement Learning for de novo Drug Design（aka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: REINFORCE)
 - Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Actor-Critic)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
-- GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models (cka: GraphRNN; ICML 2018) [[Paper]](https://arxiv.org/pdf/1802.08773.pdf) [[Code]](https://github.com/JiaxuanYou/graph-generation)
+- GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models (aka: GraphRNN; ICML 2018) [[Paper]](https://arxiv.org/pdf/1802.08773.pdf) [[Code]](https://github.com/JiaxuanYou/graph-generation)
 - Learning Deep Generative Models of Graphs (ICML 2018) [[Paper]](https://arxiv.org/abs/1803.03324) [[Code]](https://github.com/JiaxuanYou/graph-generation/blob/master/main_DeepGMG.py) (Techs - RNN: LSTM)
 - MolecularRNN: Generating realistic molecular graphs with optimized properties (arXiv 2019) [[Paper]](https://arxiv.org/abs/1905.13372)
 
@@ -263,50 +263,50 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecular Property Prediction; Representation*: Molecular Graphs</i>
 
-- Molecular Graph Convolutions: Moving Beyond Fingerprints (cka: Weave; J Comput Aided Mol Des 2016) [[Paper]](https://arxiv.org/pdf/1603.00856.pdf)
+- Molecular Graph Convolutions: Moving Beyond Fingerprints (aka: Weave; J Comput Aided Mol Des 2016) [[Paper]](https://arxiv.org/pdf/1603.00856.pdf)
 - Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction (J Chem Inf Model 2017) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601)
-- Semi-supervised classification with graph convolutional networks (cka: GraphConv; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1609.02907.pdf) [[Code]](https://github.com/tkipf/gcn)
-- Neural Message Passing for Quantum Chemistry (cka: MPNN; ICML 2017) [[Paper]](https://arxiv.org/pdf/1704.01212.pdf) [[Code]](https://github.com/priba/nmp_qc)
-- SchNet: A continuous-filter convolutional neural network for modeling quantum interactions (cka: SchNet; NeurIPS 2017)[[Paper]](https://dl.acm.org/doi/pdf/10.5555/3294771.3294866) [[Code]](https://github.com/atomistic-machine-learning/SchNet)
+- Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1609.02907.pdf) [[Code]](https://github.com/tkipf/gcn)
+- Neural Message Passing for Quantum Chemistry (aka: MPNN; ICML 2017) [[Paper]](https://arxiv.org/pdf/1704.01212.pdf) [[Code]](https://github.com/priba/nmp_qc)
+- SchNet: A continuous-filter convolutional neural network for modeling quantum interactions (aka: SchNet; NeurIPS 2017)[[Paper]](https://dl.acm.org/doi/pdf/10.5555/3294771.3294866) [[Code]](https://github.com/atomistic-machine-learning/SchNet)
 - Low Data Drug Discovery with One-Shot Learning (ACS Cent Sci 2017) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367) (Techs - LSTM: BiLSTM, attLSTM + GNN + Few-Shot Learning)
-- Large-scale comparison of machine learning methods for drug target prediction on ChEMBL (cka:SmilesLSTM; Chem Sci 2018) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc00148k#!divAbstract) [[Code]](https://github.com/ml-jku/lsc) (Techs - RNN + GNN + Multi-Task Learning)
-- PotentialNet for Molecular Property Prediction (cka: PotentialNet; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.8b00507) (Techs - GNN: GCNN + Multi-Task Learning)
-- Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective (cka: MGCN; AAAI 2019) [[Paper]](https://arxiv.org/abs/1906.11081)
+- Large-scale comparison of machine learning methods for drug target prediction on ChEMBL (aka:SmilesLSTM; Chem Sci 2018) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc00148k#!divAbstract) [[Code]](https://github.com/ml-jku/lsc) (Techs - RNN + GNN + Multi-Task Learning)
+- PotentialNet for Molecular Property Prediction (aka: PotentialNet; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.8b00507) (Techs - GNN: GCNN + Multi-Task Learning)
+- Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective (aka: MGCN; AAAI 2019) [[Paper]](https://arxiv.org/abs/1906.11081)
 - Deep Learning-Based Prediction of Drug-Induced Cardiotoxicity (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00769) [[Code]](https://github.com/ChengF-Lab/deephERG) (Techs - GCN + Multi-task Learning)
 - DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00672) (Techs - GCN + Attention)
-- Analyzing Learned Molecular Representations for Property Prediction (cka: Chemrop, D-MPNN; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237) [[Code]](https://github.com/chemprop/chemprop)
-- Molecule Property Prediction Based on Spatial Graph Embedding (cka: C-SGEN; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00410) [[Code]](https://github.com/wxfsd/C-SGEN)
-- Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism (cka: Attentive FP; J Med Chem 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959)
+- Analyzing Learned Molecular Representations for Property Prediction (aka: Chemrop, D-MPNN; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237) [[Code]](https://github.com/chemprop/chemprop)
+- Molecule Property Prediction Based on Spatial Graph Embedding (aka: C-SGEN; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00410) [[Code]](https://github.com/wxfsd/C-SGEN)
+- Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism (aka: Attentive FP; J Med Chem 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959)
 - Graph convolutional neural networks as” general-purpose” property predictors: the universality and limits of applicability (J Chem Inf Model 2020) [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00587)
-- N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules (cka: N-Gram Graph; NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1806.09206.pdf)
+- N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules (aka: N-Gram Graph; NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1806.09206.pdf)
 - Building attention and edge message passing neural networks for bioactivity and physical–chemical property prediction (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y) [[Code]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery) (Techs - MPNN + Multi-Task Learning)
 - A self‑attention based message passing neural network for predicting molecular lipophilicity and aqueous solubility (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-0414-z) [[Code]](https://github.com/tbwxmu/SAMPN) (Techs - MPNN + Self-Attention: Interpretability)
-- Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Drug-Like Molecules (cka: CIGIN; AAAI 2020) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5433) [[Code]](https://github.com/devalab/CIGIN)
+- Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Drug-Like Molecules (aka: CIGIN; AAAI 2020) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5433) [[Code]](https://github.com/devalab/CIGIN)
 - Strategies for Pre-training Graph Neural Networks (ICLR 2020) [[Paper]](https://arxiv.org/pdf/1905.12265.pdf) [[Code]](https://github.com/snap-stanford/pretrain-gnns) (Techs - Self-Supervised Learning)
-- Directional Message Passing for Molecular Graphs (cka: DimeNet; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=B1eWbxStPH) [[Code]](https://github.com/klicperajo/dimenet)
+- Directional Message Passing for Molecular Graphs (aka: DimeNet; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=B1eWbxStPH) [[Code]](https://github.com/klicperajo/dimenet)
 - Drug–target affinity prediction using graph neural network and contact maps (RSC Advances 2020) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/ra/d0ra02297g#!divAbstract) (Techs - GCN + GAT)
-- ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction (cka: ASGN; KDD 2020) [[Paper]](https://arxiv.org/pdf/2007.03196.pdf) [[Code]](https://github.com/HaoZhongkai/AS_Molecule) (Techs - Active Learning)
+- ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction (aka: ASGN; KDD 2020) [[Paper]](https://arxiv.org/pdf/2007.03196.pdf) [[Code]](https://github.com/HaoZhongkai/AS_Molecule) (Techs - Active Learning)
 - Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction (ICML 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2003.05996.pdf) [[Code]](https://github.com/GSK-AI/meta-learning-qsar) (Techs - GGNN + Meta Learning: MAML, FO-MAML, ANIL) 
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
 - Multi‑objective de novo drug design with conditional graph generative model (J Cheminf 2018) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0287-6) [[Code]](https://github.com/kevinid/molecule_generator) (Techs - Conditional Graph Generative Model: MolMP, MolRNN)
-- Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (cka: GCPN; NeurIPS 2018) [[Paper]](https://arxiv.org/pdf/1806.02473.pdf) [[Code]](https://github.com/bowenliu16/rl_graph_generation) (Techs - GCN + RL: PPO)
-- Optimization of Molecules via Deep Reinforcement Learning (cka: MolDQN; Sci Rep 2019) [[Paper]](https://www.nature.com/articles/s41598-019-47148-x) (Techs - RL: Q-learning)
+- Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (aka: GCPN; NeurIPS 2018) [[Paper]](https://arxiv.org/pdf/1806.02473.pdf) [[Code]](https://github.com/bowenliu16/rl_graph_generation) (Techs - GCN + RL: PPO)
+- Optimization of Molecules via Deep Reinforcement Learning (aka: MolDQN; Sci Rep 2019) [[Paper]](https://www.nature.com/articles/s41598-019-47148-x) (Techs - RL: Q-learning)
 - Improving Molecular Design by Stochastic Iterative Target Augmentation (ICML 2020) [[Paper]](https://arxiv.org/pdf/2002.04720.pdf) [[Code]](https://github.com/yangkevin2/icml2020-stochastic-iterative-target-augmentation) (Techs - VSeq2Seq/HierGNN + Semi-Supervised Learnning) 
 - DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: PPO)
-- Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (cka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: PPO)
-- Graph Networks for Molecular Design (cka: GraphINVENT; ChemRxiv 2020) [[Paper]](https://chemrxiv.org/articles/preprint/Graph_Networks_for_Molecular_Design/12843137/1) [[Code]](https://github.com/MolecularAI/GraphINVENT)
+- Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: PPO)
+- Graph Networks for Molecular Design (aka: GraphINVENT; ChemRxiv 2020) [[Paper]](https://chemrxiv.org/articles/preprint/Graph_Networks_for_Molecular_Design/12843137/1) [[Code]](https://github.com/MolecularAI/GraphINVENT)
 
 <i>Side Note: Common GNN Models</i>
 
-- <b>Recurrent GNNs</b> --- Gated graph sequence neural networks (cka: GGNN; ICLR 2016)
-- <b>Convolutional GNNs (Spectral-based)</b> --- Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (cka: ChebNet; NeurIPS 2016)
-- <b>Convolutional GNNs (Spectral-based)</b> --- Semi-supervised classification with graph convolutional networks (cka: GraphConv; ICLR 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Neural message passing for quantum chemistry (cka: MPNN; ICML 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Inductive Representation Learning on Large Graphs (cka: GraphSAGE; NeurIPS 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Graph Attention Networks (cka: GAT; ICLR 2018)
-- <b>Convolutional GNNs (Spatial-based)</b> --- How powerful are graph neural networks? (cka: GIN; ICLR 2019)
+- <b>Recurrent GNNs</b> --- Gated graph sequence neural networks (aka: GGNN; ICLR 2016)
+- <b>Convolutional GNNs (Spectral-based)</b> --- Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (aka: ChebNet; NeurIPS 2016)
+- <b>Convolutional GNNs (Spectral-based)</b> --- Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017)
+- <b>Convolutional GNNs (Spatial-based)</b> --- Neural message passing for quantum chemistry (aka: MPNN; ICML 2017)
+- <b>Convolutional GNNs (Spatial-based)</b> --- Inductive Representation Learning on Large Graphs (aka: GraphSAGE; NeurIPS 2017)
+- <b>Convolutional GNNs (Spatial-based)</b> --- Graph Attention Networks (aka: GAT; ICLR 2018)
+- <b>Convolutional GNNs (Spatial-based)</b> --- How powerful are graph neural networks? (aka: GIN; ICLR 2019)
 
 <a name="vae" />
 
@@ -315,34 +315,34 @@ This repository compiles a collection works on related areas, based on the manus
 <i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
 
 - Automatic chemical design using a data-driven continuous representation of molecules (arXiv 2016; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572) [[Code]](https://github.com/HIPS/molecule-autoencoder) (Techs - VAE)
-- Grammar Variational Autoencoder (cka: GrammarVAE; ICML 2017) [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3305381.3305582) 
+- Grammar Variational Autoencoder (aka: GrammarVAE; ICML 2017) [[Paper]](https://dl.acm.org/doi/pdf/10.5555/3305381.3305582) 
 - Application of Generative Autoencoder in De Novo Molecular Design (Mol Inform 2017) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700123)
-- Syntax-Directed Variational Autoencoder for Structured Data (cka: SD-VAE; ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SyqShMZRb) [[Code]](https://github.com/Hanjun-Dai/sdvae) 
-- Conditional Molecular Design with Deep Generative Models （cka: Continuous SSVAE; J Chem Inf Model 2018）[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00263) [[Code]](https://github.com/nyu-dl/conditional-molecular-design-ssvae) 
-- Molecular generative model based on conditional variational autoencoder for de novo molecular design (cka: CVAE; J Cheminf 2018) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) [[Code]](https://github.com/jaechanglim/CVAE) (Techs - VAE)
-- Constrained Graph Variational Autoencoders for Molecule Design (cka: CGVAE; NeurIPS 2018) [[Paper]](https://arxiv.org/pdf/1805.09076.pdf) [[Code]](https://github.com/microsoft/constrained-graph-variational-autoencoder)
-- NEVAE: A Deep Generative Model for Molecular Graphs (cka: NeVAE; AAAI 2019) [[Paper]](https://arxiv.org/pdf/1802.05283.pdf) [[Code]](https://github.com/Networks-Learning/nevae)
-- De Novo Molecular Design by Combining Deep Autoencoder Recurrent Neural Networks with Generative Topographic Mapping (cka: GTMVAE; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00751) (Techs - Autoencoder + RNN)
-- Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation (cka: re-balanced VAE; ACM BCB 2020) [[Paper]](https://arxiv.org/pdf/1910.00698.pdf) [[Code]](https://github.com/chaoyan1037/Re-balanced-VAE.) (Techs - RNN: BiGRU + VAE) 
-- CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models (cka: CogMol; NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/2d16ad1968844a4300e9a490588ff9f8-Paper.pdf) [[Code]](https://github.com/IBM/controlled-peptide-generation)
+- Syntax-Directed Variational Autoencoder for Structured Data (aka: SD-VAE; ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SyqShMZRb) [[Code]](https://github.com/Hanjun-Dai/sdvae) 
+- Conditional Molecular Design with Deep Generative Models （aka: Continuous SSVAE; J Chem Inf Model 2018）[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00263) [[Code]](https://github.com/nyu-dl/conditional-molecular-design-ssvae) 
+- Molecular generative model based on conditional variational autoencoder for de novo molecular design (aka: CVAE; J Cheminf 2018) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) [[Code]](https://github.com/jaechanglim/CVAE) (Techs - VAE)
+- Constrained Graph Variational Autoencoders for Molecule Design (aka: CGVAE; NeurIPS 2018) [[Paper]](https://arxiv.org/pdf/1805.09076.pdf) [[Code]](https://github.com/microsoft/constrained-graph-variational-autoencoder)
+- NEVAE: A Deep Generative Model for Molecular Graphs (aka: NeVAE; AAAI 2019) [[Paper]](https://arxiv.org/pdf/1802.05283.pdf) [[Code]](https://github.com/Networks-Learning/nevae)
+- De Novo Molecular Design by Combining Deep Autoencoder Recurrent Neural Networks with Generative Topographic Mapping (aka: GTMVAE; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00751) (Techs - Autoencoder + RNN)
+- Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation (aka: re-balanced VAE; ACM BCB 2020) [[Paper]](https://arxiv.org/pdf/1910.00698.pdf) [[Code]](https://github.com/chaoyan1037/Re-balanced-VAE.) (Techs - RNN: BiGRU + VAE) 
+- CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models (aka: CogMol; NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/2d16ad1968844a4300e9a490588ff9f8-Paper.pdf) [[Code]](https://github.com/IBM/controlled-peptide-generation)
 
 <i>VAE Variant: AAE</i>
 
 - Application of Generative Autoencoder in De Novo Molecular Design (Mol Inform 2017) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700123)
-- druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (cka: druGAN; Mol Pharm 2017) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.7b00346?ref=recommended)
-- Entangled Conditional Adversarial Autoencoder for de Novo Drug Discovery (cka: SAAE; Mol Pharm 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.8b00839)
+- druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (aka: druGAN; Mol Pharm 2017) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.7b00346?ref=recommended)
+- Entangled Conditional Adversarial Autoencoder for de Novo Drug Discovery (aka: SAAE; Mol Pharm 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.8b00839)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
-- Junction Tree Variational Autoencoder for Molecular Graph Generation (cka: JT-VAE; ICML 2018) [[Paper]](https://arxiv.org/abs/1802.04364) [[Code]](https://github.com/wengong-jin/icml18-jtnn)
-- Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders (cka:Regularized VAE; NeurIPS 2018)[[Paper]](https://papers.nips.cc/paper/2018/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf) 
-- Molecular Hypergraph Grammar with Its Application to Molecular Optimization (cka: MHG-VAE; ICML 2019) [[Paper]](https://arxiv.org/pdf/1809.02745.pdf) [[Code]](https://github.com/ibm-research-tokyo/graph_grammar) 
+- Junction Tree Variational Autoencoder for Molecular Graph Generation (aka: JT-VAE; ICML 2018) [[Paper]](https://arxiv.org/abs/1802.04364) [[Code]](https://github.com/wengong-jin/icml18-jtnn)
+- Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders (aka:Regularized VAE; NeurIPS 2018)[[Paper]](https://papers.nips.cc/paper/2018/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf) 
+- Molecular Hypergraph Grammar with Its Application to Molecular Optimization (aka: MHG-VAE; ICML 2019) [[Paper]](https://arxiv.org/pdf/1809.02745.pdf) [[Code]](https://github.com/ibm-research-tokyo/graph_grammar) 
 - Efficient learning of non‑autoregressive graph variational autoencoders for molecular graph generation (J Cheminf 2019) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0396-x) [[Code]](https://github.com/seokhokang/graphvae_approx) (Techs - Non-autoregressive VAE + RL)
-- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (cka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Techs - VAE + RL: REINFORCE)
-- Scaffold-based molecular design using graph generative model (cka: ScaffoldVAE; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1905.13639.pdf)
-- Learning Multimodal Graph-to-Graph Translation for Molecule Optimization (cka: VJTNN; ICLR 2019) [[Paper]](https://arxiv.org/pdf/1812.01070.pdf) [[Code]](https://github.com/wengong-jin/iclr19-graph2graph) 
+- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (aka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Techs - VAE + RL: REINFORCE)
+- Scaffold-based molecular design using graph generative model (aka: ScaffoldVAE; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1905.13639.pdf)
+- Learning Multimodal Graph-to-Graph Translation for Molecule Optimization (aka: VJTNN; ICLR 2019) [[Paper]](https://arxiv.org/pdf/1812.01070.pdf) [[Code]](https://github.com/wengong-jin/iclr19-graph2graph) 
 - CORE: Automatic Molecule Optimization Using Copy & Refine Strategy (AAAI 2020) [[Paper]](https://arxiv.org/pdf/1912.05910.pdf) [[Code]](https://github.com/futianfan/CORE) 
-- Hierarchical Generation of Molecular Graphs using Structural Motifs (cka: HierVAE; ICML 2020) [[Paper]](https://arxiv.org/pdf/2002.03230.pdf) [[Code]](https://github.com/wengong-jin/hgraph2graph) (Techs - Hierarchical VAE) 
+- Hierarchical Generation of Molecular Graphs using Structural Motifs (aka: HierVAE; ICML 2020) [[Paper]](https://arxiv.org/pdf/2002.03230.pdf) [[Code]](https://github.com/wengong-jin/hgraph2graph) (Techs - Hierarchical VAE) 
 - Compressed graph representation for scalable molecular graph generation (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) [[Code]](https://github.com/seokhokang/graphvae_compress) (Techs - Non-autoregressive VAE)
 
 
@@ -358,13 +358,13 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
 
-- Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (cka: ORGAN; ArXiv 2017) [[Paper]](https://arxiv.org/pdf/1705.10843.pdf) [[Code]](https://github.com/gablg1/ORGAN) (Techs - GAN: G-RNN, D-CNN  + RL: REINFORCE)
-- Optimizing distributions over molecular space. An objective-reinforced generative adversarial network for inverse-design chemistry (cka: ORGANIC; ChemRxiv 2017) [[Paper]](https://chemrxiv.org/articles/preprint/ORGANIC_1_pdf/5309668) [[Code]](https://github.com/aspuru-guzik-group/ORGANIC) (Techs - GAN + RL: REINFORCE) 
-- Reinforced Adversarial Neural Computer for de Novo Molecular Design (cka: RANC; J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00690) (Techs - GAN + RL) 
+- Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (aka: ORGAN; ArXiv 2017) [[Paper]](https://arxiv.org/pdf/1705.10843.pdf) [[Code]](https://github.com/gablg1/ORGAN) (Techs - GAN: G-RNN, D-CNN  + RL: REINFORCE)
+- Optimizing distributions over molecular space. An objective-reinforced generative adversarial network for inverse-design chemistry (aka: ORGANIC; ChemRxiv 2017) [[Paper]](https://chemrxiv.org/articles/preprint/ORGANIC_1_pdf/5309668) [[Code]](https://github.com/aspuru-guzik-group/ORGANIC) (Techs - GAN + RL: REINFORCE) 
+- Reinforced Adversarial Neural Computer for de Novo Molecular Design (aka: RANC; J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00690) (Techs - GAN + RL) 
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
-- MolGAN: An implicit generative model for small molecular graphs (cka: MolGAN; ICML 2018 Workshop) [[Paper]](https://arxiv.org/pdf/1805.11973.pdf) [[Code-Tensorflow]](https://github.com/nicola-decao/MolGAN) [[Code-PyTorch]](https://github.com/yongqyu/MolGAN-pytorch) (Techs - GAN + RL: DDPG)
+- MolGAN: An implicit generative model for small molecular graphs (aka: MolGAN; ICML 2018 Workshop) [[Paper]](https://arxiv.org/pdf/1805.11973.pdf) [[Code-Tensorflow]](https://github.com/nicola-decao/MolGAN) [[Code-PyTorch]](https://github.com/yongqyu/MolGAN-pytorch) (Techs - GAN + RL: DDPG)
 
 
 <a name="flow" />
@@ -373,11 +373,11 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
-- GraphNVP: An Invertible Flow Model for Generating Molecular Graphs (cka: GraphNVP; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1905.11600.pdf) [[Code]](https://github.com/pfnet-research/graph-nvp) 
-- Graph Residual Flow for Molecular Graph Generation (cka: GRF; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1909.13521.pdf)
-- GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (cka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) 
-- MoFlow: An Invertible Flow Model for Generating Molecular Graphs (cka: MoFlow; KDD 2020) [[Paper]](https://arxiv.org/pdf/2006.10137.pdf) [[Code]](https://github.com/calvin-zcx/moflow)
-- GraphDF: A Discrete Flow Model for Molecular Graph Generation (cka: GraphDF; ICML 2021) [[Paper]](https://arxiv.org/abs/2102.01189)
+- GraphNVP: An Invertible Flow Model for Generating Molecular Graphs (aka: GraphNVP; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1905.11600.pdf) [[Code]](https://github.com/pfnet-research/graph-nvp) 
+- Graph Residual Flow for Molecular Graph Generation (aka: GRF; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1909.13521.pdf)
+- GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (aka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) 
+- MoFlow: An Invertible Flow Model for Generating Molecular Graphs (aka: MoFlow; KDD 2020) [[Paper]](https://arxiv.org/pdf/2006.10137.pdf) [[Code]](https://github.com/calvin-zcx/moflow)
+- GraphDF: A Discrete Flow Model for Molecular Graph Generation (aka: GraphDF; ICML 2021) [[Paper]](https://arxiv.org/abs/2102.01189)
 
 
 <a name="transformer" />
@@ -386,19 +386,19 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecular Property Prediction; Representation*: SMILES Strings</i>
 
-- SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction (cka: SMILES-BERT; ACM BCB 2019) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307339.3342186) (Techs - BERT)
-- SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery (cka: SMILES Transformer; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1911.04738.pdf) [[Code]](https://github.com/DSPsleeporg/smiles-transformer)
-- ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction (cka: ChemBERTa; arXiv 2020) [[Paper]](https://arxiv.org/pdf/2010.09885.pdf) [[Code]](https://github.com/seyonechithrananda/bert-loves-chemistry)
-- Molecular representation learning with language models and domain-relevant auxiliary tasks (cka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
+- SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction (aka: SMILES-BERT; ACM BCB 2019) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307339.3342186) (Techs - BERT)
+- SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery (aka: SMILES Transformer; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1911.04738.pdf) [[Code]](https://github.com/DSPsleeporg/smiles-transformer)
+- ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction (aka: ChemBERTa; arXiv 2020) [[Paper]](https://arxiv.org/pdf/2010.09885.pdf) [[Code]](https://github.com/seyonechithrananda/bert-loves-chemistry)
+- Molecular representation learning with language models and domain-relevant auxiliary tasks (aka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
 
 <i>Task*: Molecular Property Prediction; Representation*: Molecular Graphs</i>
 
-- Self-Supervised Graph Transformer on Large-Scale Molecular Data (cka: GROVER; NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2007.02835.pdf) [[Code]](https://github.com/tencent-ailab/grover) (Techs - Graph Transformer + Self-Supervised Learning)
+- Self-Supervised Graph Transformer on Large-Scale Molecular Data (aka: GROVER; NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2007.02835.pdf) [[Code]](https://github.com/tencent-ailab/grover) (Techs - Graph Transformer + Self-Supervised Learning)
 
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
-- A Model to Search for Synthesizable Molecules (cka: Molecule Chef; NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1906.05221.pdf) [[Code]](https://github.com/john-bradshaw/molecule-chef)
+- A Model to Search for Synthesizable Molecules (aka: Molecule Chef; NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1906.05221.pdf) [[Code]](https://github.com/john-bradshaw/molecule-chef)
 - Transformer neural network for protein-specific de novo drug generation as a machine translation problem (Sci Rep 2021) [[Paper]](https://www.nature.com/articles/s41598-020-79682-4)
 
 
@@ -417,8 +417,8 @@ This repository compiles a collection works on related areas, based on the manus
 <i>Generative Learning</i>
 
 - Strategies for Pre-training Graph Neural Networks (ICLR 2020) [[Paper]](https://arxiv.org/pdf/1905.12265.pdf) [[Code]](https://github.com/snap-stanford/pretrain-gnns) (Techs - Self-Supervised Learning)
-- Molecular representation learning with language models and domain-relevant auxiliary tasks (cka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
-- Self-Supervised Graph Transformer on Large-Scale Molecular Data (cka: GROVER; NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2007.02835.pdf) [[Code]](https://github.com/tencent-ailab/grover) (Techs - Graph Transformer + Self-Supervised Learning)
+- Molecular representation learning with language models and domain-relevant auxiliary tasks (aka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
+- Self-Supervised Graph Transformer on Large-Scale Molecular Data (aka: GROVER; NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2007.02835.pdf) [[Code]](https://github.com/tencent-ailab/grover) (Techs - Graph Transformer + Self-Supervised Learning)
 
 
 <a name="cl" />
@@ -431,20 +431,20 @@ This repository compiles a collection works on related areas, based on the manus
 
 <b>4.2 Reinforcement Learning</b>
 
-- Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (cka: ORGAN; ArXiv 2017) [[Paper]](https://arxiv.org/pdf/1705.10843.pdf) [[Code]](https://github.com/gablg1/ORGAN) (Techs - GAN: G-RNN, D-CNN  + RL: Policy-gradient REINFORCE)
-- Molecular de‑novo design through deep reinforcement learning (cka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: Policy-gradient REINFORCE)
-- Optimizing distributions over molecular space. An objective-reinforced generative adversarial network for inverse-design chemistry (cka: ORGANIC; ChemRxiv 2017) [[Paper]](https://chemrxiv.org/articles/preprint/ORGANIC_1_pdf/5309668) [[Code]](https://github.com/aspuru-guzik-group/ORGANIC) (Techs - GAN + RL: Policy-gradient REINFORCE) 
-- Reinforced Adversarial Neural Computer for de Novo Molecular Design (cka: RANC; J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00690) (Techs - GAN + RL) 
+- Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (aka: ORGAN; ArXiv 2017) [[Paper]](https://arxiv.org/pdf/1705.10843.pdf) [[Code]](https://github.com/gablg1/ORGAN) (Techs - GAN: G-RNN, D-CNN  + RL: Policy-gradient REINFORCE)
+- Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: Policy-gradient REINFORCE)
+- Optimizing distributions over molecular space. An objective-reinforced generative adversarial network for inverse-design chemistry (aka: ORGANIC; ChemRxiv 2017) [[Paper]](https://chemrxiv.org/articles/preprint/ORGANIC_1_pdf/5309668) [[Code]](https://github.com/aspuru-guzik-group/ORGANIC) (Techs - GAN + RL: Policy-gradient REINFORCE) 
+- Reinforced Adversarial Neural Computer for de Novo Molecular Design (aka: RANC; J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00690) (Techs - GAN + RL) 
 - Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design (ICLR 2018 Workshop) [[Paper]](https://openreview.net/pdf?id=Bk0xiI1Dz) (Techs - RL: Hybrid A2C, Policy-gradient PPO)
-- MolGAN: An implicit generative model for small molecular graphs (cka: MolGAN; ICML 2018 Workshop) [[Paper]](https://arxiv.org/pdf/1805.11973.pdf) [[Code-Tensorflow]](https://github.com/nicola-decao/MolGAN) [[Code-PyTorch]](https://github.com/yongqyu/MolGAN-pytorch) (Techs - GAN + RL: Hybrid Actor-Critic DDPG)
-- Deep Reinforcement Learning for de novo Drug Design（cka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: Policy-gradient REINFORCE)
-- Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (cka: GCPN; NeurIPS 2018)[[Paper]](https://proceedings.neurips.cc/paper/2018/file/d60678e8f2ba9c540798ebbde31177e8-Paper.pdf) [[Code]](https://github.com/bowenliu16/rl_graph_generation) (Techs - GCN + RL: Policy-gradient PPO)
-- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (cka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Techs - VAE + RL: Policy-gradient REINFORCE)
-- Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (cka: DeepFMPO; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Hybrid Actor-Critic)
-- Optimization of Molecules via Deep Reinforcement Learning (cka: MolDQN; Sci Rep 2019) [[Paper]](https://www.nature.com/articles/s41598-019-47148-x) (Techs - RL: Value-based Double Q-learning)
+- MolGAN: An implicit generative model for small molecular graphs (aka: MolGAN; ICML 2018 Workshop) [[Paper]](https://arxiv.org/pdf/1805.11973.pdf) [[Code-Tensorflow]](https://github.com/nicola-decao/MolGAN) [[Code-PyTorch]](https://github.com/yongqyu/MolGAN-pytorch) (Techs - GAN + RL: Hybrid Actor-Critic DDPG)
+- Deep Reinforcement Learning for de novo Drug Design（aka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: Policy-gradient REINFORCE)
+- Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (aka: GCPN; NeurIPS 2018)[[Paper]](https://proceedings.neurips.cc/paper/2018/file/d60678e8f2ba9c540798ebbde31177e8-Paper.pdf) [[Code]](https://github.com/bowenliu16/rl_graph_generation) (Techs - GCN + RL: Policy-gradient PPO)
+- Deep learning enables rapid identification of potent DDR1 kinase inhibitors (aka: GENTRL; Nat Biotechnol 2019) [[Paper]](https://www.nature.com/articles/s41587-019-0224-x) [[Code]](https://github.com/insilicomedicine/GENTRL) (Techs - VAE + RL: Policy-gradient REINFORCE)
+- Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (aka: DeepFMPO; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Hybrid Actor-Critic)
+- Optimization of Molecules via Deep Reinforcement Learning (aka: MolDQN; Sci Rep 2019) [[Paper]](https://www.nature.com/articles/s41598-019-47148-x) (Techs - RL: Value-based Double Q-learning)
 - Efficient learning of non‑autoregressive graph variational autoencoders for molecular graph generation (J Cheminf 2019) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0396-x) [[Code]](https://github.com/seokhokang/graphvae_approx) (Techs - Non-autoregressive VAE + RL: Policy-gradient)
-- DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (cka: DeepGraphMolGen; J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: Policy-gradient PPO)
-- Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (cka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: Policy-gradient PPO)
+- DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (aka: DeepGraphMolGen; J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: Policy-gradient PPO)
+- Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: Policy-gradient PPO)
 
 <i>Side Note: Pareto Optimality</i>
 
@@ -483,7 +483,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Active Learning</i>
 
-- ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction (cka: ASGN; KDD 2020) [[Paper]](https://arxiv.org/pdf/2007.03196.pdf) [[Code]](https://github.com/HaoZhongkai/AS_Molecule) (Techs - Active Learning)
+- ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction (aka: ASGN; KDD 2020) [[Paper]](https://arxiv.org/pdf/2007.03196.pdf) [[Code]](https://github.com/HaoZhongkai/AS_Molecule) (Techs - Active Learning)
 - Evidential Deep Learning for Guided Molecular Property Prediction and Discovery (NeurIPS 2020 Workshop) [[Talk]](https://slideslive.at/38942396/evidential-deep-learning-for-guided-molecular-property-prediction-and-discovery?ref=speaker-17456-latest)
 
 
