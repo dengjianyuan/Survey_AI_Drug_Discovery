@@ -1,7 +1,7 @@
 # 👏 A Survey of Artificial Intelligence in Drug Discovery
 
 💡 Artificial intelligence has been widely applied in drug discovery over the past decade and is still gaining popularity.
-This repository compiles a collection works on related areas, based on the manuscript "Artificial Intelligence in Drug Discovery: Applications and Techniques" ([[link]](https://arxiv.org/abs/2106.05386)) by Jianyuan Deng et al. Hope you will find it useful for your research.
+This repository compiles a collection works on related areas, based on the manuscript [Artificial Intelligence in Drug Discovery: Applications and Techniques](https://arxiv.org/abs/2106.05386) by Jianyuan Deng et al. Hope you will find it useful for your research.
 
 🔔 This repository is updated regularly. 
 
