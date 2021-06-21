@@ -512,7 +512,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>*Uncertainty Estimation*</i>
 
-General Approach to Estimate Error Bars for Quantitative Structure−Activity Relationship Predictions of Molecular Activity (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.8b00114)
+- General Approach to Estimate Error Bars for Quantitative Structure−Activity Relationship Predictions of Molecular Activity (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.8b00114)
 - Assessment and Reproducibility of Quantitative Structure−Activity Relationship Models by the Nonexpert (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00523)
 - Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00542)
 - Reliable Prediction Errors for Deep Neural Networks Using Test-Time Dropout (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00297)
