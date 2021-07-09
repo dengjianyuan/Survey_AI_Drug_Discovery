@@ -69,6 +69,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Virtual screening: an endless staircase? (Nat Rev Drug Discov 2010) [[Paper]](https://www.nature.com/articles/nrd3139)
 - Principles of early drug discovery (Br J Pharmacol 2011) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058157/)
 - Recognizing Pitfalls in Virtual Screening: A Critical Review (J Chem Inf Model 2012) [[Paper]](https://pubs.acs.org/doi/full/10.1021/ci200528d)
+- Multi-objective optimization methods in drug design (Drug Discov Today 2013) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1740674913000085)
 - Finding the rules for successful drug optimisation (Drug Discov Today 2014) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644614000075)
 - Recent Progress in Understanding Activity Cliffs and Their Utility in Medicinal Chemistry (J Med Chem 2014) [[Paper]](https://pubs.acs.org/doi/10.1021/jm401120g)
 - Automating Drug Discovery (Nat Rev Drug Discov 2017) [[Paper]](https://www.nature.com/articles/nrd.2017.232)
