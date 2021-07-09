@@ -92,6 +92,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Learning Molecular Representations for Medicinal Chemistry (J Med Chem 2020) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c00385)
 - Exploring chemical space using natural language processing methodologies for drug discovery (Drug Discov Today 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644620300465)
 - Practical Notes on Building Molecular Graph Generative Models (Applied AI Letters 2020) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ail2.18) 
+- A compact review of molecular property prediction with graph neural networks (Drug Discov Today 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1740674920300305)
 - Artificial intelligence in drug discovery: Recent advances and future perspectives (Expert Opin Drug Discov 2021) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1909567)
 - Artificial intelligence in drug discovery and development (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644620304256?via%3Dihub)
 - Graph neural networks for automated de novo drug design (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621000787)
