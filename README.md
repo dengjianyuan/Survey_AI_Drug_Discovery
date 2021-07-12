@@ -462,13 +462,11 @@ This repository compiles a collection works on related areas, based on the manus
 - <b>Value-based</b>   Deep Reinforcement Learning with Double Q-learning (aka: Double Q-learning; AAAI 2016) [[Paper]](https://arxiv.org/pdf/1509.06461.pdf)
 - <b>Value-based</b>   Prioritized Experience Replay (aka: DQN with Experience Replay; ICLR 2016) [[Paper]](https://arxiv.org/pdf/1511.05952.pdf)
 - <b>Value-based</b>   Dueling Network Architectures for Deep Reinforcement Learning (aka: Dueling Network; ICML 2016) [[Paper]](https://arxiv.org/pdf/1511.06581.pdf)
-
 - <b>Policy-gradient</b>   Simple statistical gradient-following algorithms for connectionist reinforcement learning (aka: REINFORCE; Mach Learn 1992) [[Paper]](https://link.springer.com/article/10.1007/BF00992696)
 - <b>Policy-gradient</b>   Policy Gradient Methods for Reinforcement Learning with Function Approximation (aka: Random Policy Gradient; NeurIPS 1999) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.6.696&rep=rep1&type=pdf)
 - <b>Policy-gradient</b>   Deterministic Policy Gradient Algorithms (aka: DPG; ICML 2014) [[Paper]](http://proceedings.mlr.press/v32/silver14.pdf)
 - <b>Policy-gradient</b>   Trust Region Policy Optimization (aka: TRPO; ICML 2015) [[Paper]](https://arxiv.org/pdf/1502.05477.pdf)
 - <b>Policy-gradient</b>   Proximal Policy Optimization Algorithms (aka: PPO; arXiv 2017 2015) [[Paper]](https://arxiv.org/pdf/1707.06347.pdf)
-
 - <b>Hybrid</b>   Continuous control with deep reinforcement learning (aka: DDPG; arXiv 2015) [[Paper]](https://arxiv.org/pdf/1509.02971.pdf)
 - <b>Hybrid</b>   Asynchronous Methods for Deep Reinforcement Learning (aka: A3C; ICML 2016) [[Paper]](https://arxiv.org/pdf/1602.01783.pdf)
 
