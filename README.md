@@ -251,11 +251,11 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
 
-- Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: REINFORCE)
+- Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: Policy-gradient REINFORCE)
 - Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks (aka: CharRNN; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00512) (Techs - Transfer Learning)
-- Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design (ICLR 2018 Workshop) [[Paper]](https://openreview.net/pdf?id=Bk0xiI1Dz) (Techs - RL: A2C, PPO) 
+- Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design (ICLR 2018 Workshop) [[Paper]](https://openreview.net/pdf?id=Bk0xiI1Dz) (Techs - RL: Hybrid A2C, Policy-gradient PPO) 
 - Deep Reinforcement Learning for de novo Drug Design（aka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: REINFORCE)
-- Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Actor-Critic)
+- Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Hybrid Actor-Critic)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
@@ -467,7 +467,7 @@ This repository compiles a collection works on related areas, based on the manus
 - <b>Policy-gradient</b>   Deterministic Policy Gradient Algorithms (aka: DPG; ICML 2014) [[Paper]](http://proceedings.mlr.press/v32/silver14.pdf)
 - <b>Policy-gradient</b>   Trust Region Policy Optimization (aka: TRPO; ICML 2015) [[Paper]](https://arxiv.org/pdf/1502.05477.pdf)
 - <b>Policy-gradient</b>   Proximal Policy Optimization Algorithms (aka: PPO; arXiv 2017 2015) [[Paper]](https://arxiv.org/pdf/1707.06347.pdf)
-- <b>Hybrid</b>   Continuous control with deep reinforcement learning (aka: DDPG; arXiv 2015) [[Paper]](https://arxiv.org/pdf/1509.02971.pdf)
+- <b>Hybrid</b>   Continuous control with deep reinforcement learning (aka: DDPG; ICLR 2016) [[Paper]](https://arxiv.org/pdf/1509.02971.pdf)
 - <b>Hybrid</b>   Asynchronous Methods for Deep Reinforcement Learning (aka: A3C; ICML 2016) [[Paper]](https://arxiv.org/pdf/1602.01783.pdf)
 
 <i>Side Note: Pareto Optimality</i>
