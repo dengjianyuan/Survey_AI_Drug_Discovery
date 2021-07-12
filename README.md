@@ -306,13 +306,13 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Side Note: Common GNN Models</i>
 
-- <b>Recurrent GNNs</b> --- Gated graph sequence neural networks (aka: GGNN; ICLR 2016)
-- <b>Convolutional GNNs (Spectral-based)</b> --- Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (aka: ChebNet; NeurIPS 2016)
-- <b>Convolutional GNNs (Spectral-based)</b> --- Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Neural message passing for quantum chemistry (aka: MPNN; ICML 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Inductive Representation Learning on Large Graphs (aka: GraphSAGE; NeurIPS 2017)
-- <b>Convolutional GNNs (Spatial-based)</b> --- Graph Attention Networks (aka: GAT; ICLR 2018)
-- <b>Convolutional GNNs (Spatial-based)</b> --- How powerful are graph neural networks? (aka: GIN; ICLR 2019)
+- <b>Recurrent GNNs</b>   Gated graph sequence neural networks (aka: GGNN; ICLR 2016)
+- <b>Convolutional GNNs (Spectral-based)</b>   Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (aka: ChebNet; NeurIPS 2016)
+- <b>Convolutional GNNs (Spectral-based)</b>   Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017)
+- <b>Convolutional GNNs (Spatial-based)</b>   Neural message passing for quantum chemistry (aka: MPNN; ICML 2017)
+- <b>Convolutional GNNs (Spatial-based)</b>   Inductive Representation Learning on Large Graphs (aka: GraphSAGE; NeurIPS 2017)
+- <b>Convolutional GNNs (Spatial-based)</b>   Graph Attention Networks (aka: GAT; ICLR 2018)
+- <b>Convolutional GNNs (Spatial-based)</b>   How powerful are graph neural networks? (aka: GIN; ICLR 2019)
 
 <a name="vae" />
 
@@ -454,6 +454,23 @@ This repository compiles a collection works on related areas, based on the manus
 - Reinforcement Learning for Molecular Design Guided by Quantum Mechanics (cka: MolGym; ICML 2020) [[Paper]](https://arxiv.org/abs/2002.07717) (Techs - RL: Policy-gradient PPO)
 - DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (aka: DeepGraphMolGen; J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: Policy-gradient PPO)
 - Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: Policy-gradient PPO)
+
+<i>Side Note: Common RL Algorithms</i>
+
+- <b>Value-based</b>   Playing Atari with Deep Reinforcement Learning (aka: DQN; NeurIPS Workshop 2013) [[Paper]](https://arxiv.org/pdf/1312.5602.pdf)
+- <b>Value-based</b>   Human-level control through deep reinforcement learning (aka: DQN; Nature 2015) [[Paper]](https://www.nature.com/articles/nature14236)
+- <b>Value-based</b>   Deep Reinforcement Learning with Double Q-learning (aka: Double Q-learning; AAAI 2016) [[Paper]](https://arxiv.org/pdf/1509.06461.pdf)
+- <b>Value-based</b>   Prioritized Experience Replay (aka: DQN with Experience Replay; ICLR 2016) [[Paper]](https://arxiv.org/pdf/1511.05952.pdf)
+- <b>Value-based</b>   Dueling Network Architectures for Deep Reinforcement Learning (aka: Dueling Network; ICML 2016) [[Paper]](https://arxiv.org/pdf/1511.06581.pdf)
+
+- <b>Policy-gradient</b>   Simple statistical gradient-following algorithms for connectionist reinforcement learning (aka: REINFORCE; Mach Learn 1992) [[Paper]](https://link.springer.com/article/10.1007/BF00992696)
+- <b>Policy-gradient</b>   Policy Gradient Methods for Reinforcement Learning with Function Approximation (aka: Random Policy Gradient; NeurIPS 1999) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.6.696&rep=rep1&type=pdf)
+- <b>Policy-gradient</b>   Deterministic Policy Gradient Algorithms (aka: DPG; ICML 2014) [[Paper]](http://proceedings.mlr.press/v32/silver14.pdf)
+- <b>Policy-gradient</b>   Trust Region Policy Optimization (aka: TRPO; ICML 2015) [[Paper]](https://arxiv.org/pdf/1502.05477.pdf)
+- <b>Policy-gradient</b>   Proximal Policy Optimization Algorithms (aka: PPO; arXiv 2017 2015) [[Paper]](https://arxiv.org/pdf/1707.06347.pdf)
+
+- <b>Hybrid</b>   Continuous control with deep reinforcement learning (aka: DDPG; arXiv 2015) [[Paper]](https://arxiv.org/pdf/1509.02971.pdf)
+- <b>Hybrid</b>   Asynchronous Methods for Deep Reinforcement Learning (aka: A3C; ICML 2016) [[Paper]](https://arxiv.org/pdf/1602.01783.pdf)
 
 <i>Side Note: Pareto Optimality</i>
 
