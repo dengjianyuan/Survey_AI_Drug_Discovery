@@ -417,7 +417,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <a name="selfsuper" />
 
-<b>4.1 Self-Supervised Learning</b>
+<b>4.1 Self-Supervised Learning in Molecular Property Prediction</b>
 
 <a name="gl" />
 
@@ -434,9 +434,10 @@ This repository compiles a collection works on related areas, based on the manus
 
 - MolCLR: Molecular Contrastive Learning of Representations via Graph Neural Networks (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2102.10056.pdf)
 
+
 <a name="rl" />
 
-<b>4.2 Reinforcement Learning</b>
+<b>4.2 Reinforcement Learning in Molecule Generation</b>
 
 - Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (aka: ORGAN; ArXiv 2017) [[Paper]](https://arxiv.org/pdf/1705.10843.pdf) [[Code]](https://github.com/gablg1/ORGAN) (Techs - GAN: G-RNN, D-CNN  + RL: Policy-gradient REINFORCE)
 - Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: Policy-gradient REINFORCE)
