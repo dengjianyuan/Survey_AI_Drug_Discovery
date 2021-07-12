@@ -340,6 +340,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
+- GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders (aka: GraphVAE; arXiv 2018) [[Paper]](https://arxiv.org/pdf/1802.03480.pdf)
 - Junction Tree Variational Autoencoder for Molecular Graph Generation (aka: JT-VAE; ICML 2018) [[Paper]](https://arxiv.org/abs/1802.04364) [[Code]](https://github.com/wengong-jin/icml18-jtnn)
 - Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders (aka:Regularized VAE; NeurIPS 2018)[[Paper]](https://papers.nips.cc/paper/2018/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf) 
 - Molecular Hypergraph Grammar with Its Application to Molecular Optimization (aka: MHG-VAE; ICML 2019) [[Paper]](https://arxiv.org/pdf/1809.02745.pdf) [[Code]](https://github.com/ibm-research-tokyo/graph_grammar) 
