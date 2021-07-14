@@ -306,13 +306,13 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Side Note: Common GNN Models</i>
 
-- <b>Recurrent GNNs</b>   Gated graph sequence neural networks (aka: GGNN; ICLR 2016)
-- <b>Convolutional GNNs (Spectral-based)</b>   Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (aka: ChebNet; NeurIPS 2016)
-- <b>Convolutional GNNs (Spectral-based)</b>   Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017)
-- <b>Convolutional GNNs (Spatial-based)</b>   Neural message passing for quantum chemistry (aka: MPNN; ICML 2017)
-- <b>Convolutional GNNs (Spatial-based)</b>   Inductive Representation Learning on Large Graphs (aka: GraphSAGE; NeurIPS 2017)
-- <b>Convolutional GNNs (Spatial-based)</b>   Graph Attention Networks (aka: GAT; ICLR 2018)
-- <b>Convolutional GNNs (Spatial-based)</b>   How powerful are graph neural networks? (aka: GIN; ICLR 2019)
+- <b>Recurrent GNNs</b>   Gated graph sequence neural networks (aka: GGNN; ICLR 2016) [[Paper]](https://arxiv.org/pdf/1511.05493.pdf) [[Code]](https://github.com/yujiali/ggnn)
+- <b>Convolutional GNNs (Spectral-based)</b>   Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (aka: ChebNet; NeurIPS 2016) [[Paper]](https://arxiv.org/pdf/1606.09375.pdf) [[Code]](https://github.com/mdeff/cnn_graph)
+- <b>Convolutional GNNs (Spectral-based)</b>   Semi-supervised classification with graph convolutional networks (aka: GraphConv; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1609.02907.pdf) [[Code]](https://github.com/tkipf/gcn)
+- <b>Convolutional GNNs (Spatial-based)</b>   Neural message passing for quantum chemistry (aka: MPNN; ICML 2017) [[Paper]](https://arxiv.org/pdf/1704.01212.pdf) [[Code]](https://github.com/priba/nmp_qc)
+- <b>Convolutional GNNs (Spatial-based)</b>   Inductive Representation Learning on Large Graphs (aka: GraphSAGE; NeurIPS 2017) [[Paper]](https://arxiv.org/pdf/1706.02216.pdf) [[Code]](https://github.com/williamleif/GraphSAGE)
+- <b>Convolutional GNNs (Spatial-based)</b>   Graph Attention Networks (aka: GAT; ICLR 2018) [[Paper]](https://arxiv.org/pdf/1710.10903.pdf) [[Code]](https://github.com/PetarV-/GAT)
+- <b>Convolutional GNNs (Spatial-based)</b>   How powerful are graph neural networks? (aka: GIN; ICLR 2019) [[Paper]](https://arxiv.org/pdf/1810.00826.pdf) [[Code]](https://github.com/weihua916/powerful-gnns)
 
 <a name="vae" />
 
