@@ -382,7 +382,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 - GraphNVP: An Invertible Flow Model for Generating Molecular Graphs (aka: GraphNVP; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1905.11600.pdf) [[Code]](https://github.com/pfnet-research/graph-nvp) 
 - Graph Residual Flow for Molecular Graph Generation (aka: GRF; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1909.13521.pdf)
-- GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (aka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) 
+- GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (aka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) (Techs - Flow + RL: PPO)
 - MoFlow: An Invertible Flow Model for Generating Molecular Graphs (aka: MoFlow; KDD 2020) [[Paper]](https://arxiv.org/pdf/2006.10137.pdf) [[Code]](https://github.com/calvin-zcx/moflow)
 - GraphDF: A Discrete Flow Model for Molecular Graph Generation (aka: GraphDF; ICML 2021) [[Paper]](https://arxiv.org/abs/2102.01189)
 
@@ -451,6 +451,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (aka: DeepFMPO; J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Hybrid Actor-Critic)
 - Optimization of Molecules via Deep Reinforcement Learning (aka: MolDQN; Sci Rep 2019) [[Paper]](https://www.nature.com/articles/s41598-019-47148-x) (Techs - RL: Value-based Double Q-learning)
 - Efficient learning of non‑autoregressive graph variational autoencoders for molecular graph generation (J Cheminf 2019) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0396-x) [[Code]](https://github.com/seokhokang/graphvae_approx) (Techs - Non-autoregressive VAE + RL: Policy-gradient)
+- GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (aka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) (Techs - Flow + RL: Policy-gradient PPO)
 - Reinforcement Learning for Molecular Design Guided by Quantum Mechanics (cka: MolGym; ICML 2020) [[Paper]](https://arxiv.org/abs/2002.07717) (Techs - RL: Policy-gradient PPO)
 - DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (aka: DeepGraphMolGen; J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: Policy-gradient PPO)
 - Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: Policy-gradient PPO)
