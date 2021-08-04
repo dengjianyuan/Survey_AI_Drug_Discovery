@@ -303,6 +303,7 @@ This repository compiles a collection works on related areas, based on the manus
 - DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: PPO)
 - Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: PPO)
 - Graph Networks for Molecular Design (aka: GraphINVENT; ChemRxiv 2020) [[Paper]](https://chemrxiv.org/articles/preprint/Graph_Networks_for_Molecular_Design/12843137/1) [[Code]](https://github.com/MolecularAI/GraphINVENT)
+- De novo drug design using reinforcement learning with graph-based deep generative models (aka: RL-GraphINVENT; ChemRxiv 2021) [[Paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60fc07bd171fc7a0adb87039/original/de-novo-drug-design-using-reinforcement-learning-with-graph-based-deep-generative-models.pdf) [[Code]](https://github.com/olsson-group/RL-GraphINVENT)
 
 <i>Side Note: Common GNN Models</i>
 
