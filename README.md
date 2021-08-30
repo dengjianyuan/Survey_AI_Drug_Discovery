@@ -542,6 +542,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Minimal-uncertainty prediction of general drug-likeness based on Bayesian neural networks (Nat Mach Intell 2020) [[Paper]](https://www.nature.com/articles/s42256-020-0209-y)
 - Assigning Confidence to Molecular Property Prediction (arXiv 2021) [[Paper]](https://arxiv.org/abs/2102.11439)
 - Gi and Pal Scores: Deep Neural Network Generalization Statistics (ICLR 2021 Workshop) [[Paper]](https://arxiv.org/pdf/2104.03469.pdf)
+- Probabilistic Random Forest improves bioactivity predictions close to the classification threshold by taking into account experimental uncertainty (J Cheminf 2021) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00539-7)
 
 <i>*Representation Capacity*</i>
 
