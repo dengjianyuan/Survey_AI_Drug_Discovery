@@ -97,7 +97,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Artificial intelligence in drug discovery and development (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644620304256?via%3Dihub)
 - Graph neural networks for automated de novo drug design (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621000787)
 - De novo molecular design and generative models (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621002531)
-- Artificial Intelligence for Drug Discovery (KDD 2021) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3470796) [[Website]](https://deepgraphlearning.github.io/DrugTutorial_KDD2021/)
+- Artificial Intelligence for Drug Discovery (KDD 2021) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3470796) [[Website]](https://deepgraphlearning.github.io/DrugTutorial_KDD2021/) [[TorchDrug]](https://torchdrug.ai/)
 
 <i>Side Notes: Successful Applications </i>
 
