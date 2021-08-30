@@ -86,6 +86,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Applications of machine learning in drug discovery and development (Nat Rev Drug Discov 2019)[[Paper]](https://www.nature.com/articles/s41573-019-0024-5)
 - Deep Learning in Chemistry (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00266)
 - Deep learning for molecular design—a review of the state of the art (Mol Syst Des Eng 2019) [[Paper]](https://pubs.rsc.org/en/content/articlehtml/2019/me/c9me00039a)
+- Efficient molecular encoders for virtual screening (Drug Discov Today Technol 2019) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1740674920300123)
 - Artificial intelligence in chemistry and drug design (J Comput Aid Mol Des 2020) [[Paper]](https://link.springer.com/article/10.1007/s10822-020-00317-x)
 - Graph convolutional networks for computational drug development and discovery (Brief Bioinformatics 2020) [[Paper]](https://academic.oup.com/bib/article/21/3/919/5498046)
 - Transfer Learning for Drug Discovery (J Med Chem 2020) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.9b02147)
