@@ -458,6 +458,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Reinforcement Learning for Molecular Design Guided by Quantum Mechanics (cka: MolGym; ICML 2020) [[Paper]](https://arxiv.org/abs/2002.07717) (Techs - RL: Policy-gradient PPO)
 - DeepGraphMolGen, a multi‑objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach (aka: DeepGraphMolGen; J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00454-3) (Techs - GCN + RL: Policy-gradient PPO)
 - Reinforced Molecular Optimization with Neighborhood-Controlled Grammars (aka: MNCE-RL; NeurIPS 2020) [[Paper]](https://papers.nips.cc/paper/2020/file/5f268dfb0fbef44de0f668a022707b86-Paper.pdf) [[Code]](https://github.com/Zoesgithub/MNCE-RL) (Techs - RL: Policy-gradient PPO)
+- Deep inverse reinforcement learning for structural evolution of small molecules (Brief Bioinform 2021) [[Paper]](https://academic.oup.com/bib/article-abstract/22/4/bbaa364/6043289?redirectedFrom=fulltext) [[Code]](https://github.com/bbrighttaer/irelease) (Techs - Inverse RL)
 
 <i>Side Note: Common RL Algorithms</i>
 
