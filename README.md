@@ -501,6 +501,7 @@ This repository compiles a collection works on related areas, based on the manus
 <i>Few-Shot Learning</i>
 
 - Low Data Drug Discovery with One-Shot Learning (ACS Cent Sci 2017) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.6b00367) (Techs - LSTM: BiLSTM, attLSTM + GNN + Few-Shot Learning)
+- Few-Shot Graph Learning for Molecular Property Prediction (WWW 2021) [[Paper]](https://arxiv.org/abs/2102.07916) [[Code]](https://github.com/zhichunguo/Meta-MGNN)
 
 <a name="metal" />
 
