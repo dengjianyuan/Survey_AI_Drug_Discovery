@@ -67,6 +67,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Computer-based de novo design of drug-like molecules (Nat Rev Drug Discov 2005) [[Paper]](https://www.nature.com/articles/nrd1799)
 - On Outliers and Activity Cliffs-Why QSAR Often Disappoints (J Chem Inf Model 2006) [[Paper]](https://pubs.acs.org/doi/10.1021/ci060117s)
 - Virtual screening: an endless staircase? (Nat Rev Drug Discov 2010) [[Paper]](https://www.nature.com/articles/nrd3139)
+- Privileged Scaffolds for Library Design and Drug Discovery (Curr Opin Chem Biol 2010) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908274/pdf/nihms218619.pdf)
 - Principles of early drug discovery (Br J Pharmacol 2011) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058157/)
 - Recognizing Pitfalls in Virtual Screening: A Critical Review (J Chem Inf Model 2012) [[Paper]](https://pubs.acs.org/doi/full/10.1021/ci200528d)
 - Multi-objective optimization methods in drug design (Drug Discov Today 2013) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1740674913000085)
