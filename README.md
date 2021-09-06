@@ -120,6 +120,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 1: Ways to make an impact, and why we are not there yet (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644620305274)
 - Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 2: a discussion of chemical and biological data used for AI in drug discovery (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621000428)
 - Critical assessment of AI in drug discovery (Expert Opin Drug Discov 2021) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1915982)
+- An Insight into Artificial Intelligence in Drug Discovery: An Interview with Professor Gisbert Schneider (Expert Opin Drug Discov 2021) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1976007)
 
 ---
 <a name="data" />
