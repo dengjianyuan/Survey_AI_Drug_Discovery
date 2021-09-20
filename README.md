@@ -559,3 +559,6 @@ This repository compiles a collection works on related areas, based on the manus
 - Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00403)
 - Molecular Similarity-Based Domain Applicability Metric Efficiently Identifies Out-of-Domain Compounds (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00597)
 
+<i>*Model Adoption*</i>
+
+- A Turing Test for Molecular Generators (J Med Chem 2020) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01148)
