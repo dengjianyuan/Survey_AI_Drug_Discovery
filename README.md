@@ -243,6 +243,7 @@ This repository compiles a collection works on related areas, based on the manus
 - DECIMER-Segmentation: Automated extraction of chemical structure depictions from scientific literature (J Cheminf 2021) [[Paper]](https://link.springer.com/article/10.1186/s13321-021-00496-1)
 - DECIMER: towards deep learning for chemical image recognition (J Cheminf 2020) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00469-w) [[Code]](https://github.com/Kohulan/DECIMER-Image-to-SMILES)
 - DECIMER 1.0: Deep Learning for Chemical Image Recognition using Transformers (chemRxiv 2021) [[Paper]](https://chemrxiv.org/articles/preprint/DECIMER_1_0_Deep_Learning_for_Chemical_Image_Recognition_using_Transformers/14479287)
+- Img2Mol - Accurate SMILES Recognition from Molecular Graphical Depictions (Chem Sci 2021) [[Paper]](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d1sc01839f) [[Code]](https://github.com/bayer-science-for-a-better-life/Img2Mol)
 
 <a name="rnn" />
 
