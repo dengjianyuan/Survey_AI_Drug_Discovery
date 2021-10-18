@@ -267,6 +267,7 @@ This repository compiles a collection works on related areas, based on the manus
 - GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models (aka: GraphRNN; ICML 2018) [[Paper]](https://arxiv.org/pdf/1802.08773.pdf) [[Code]](https://github.com/JiaxuanYou/graph-generation)
 - Learning Deep Generative Models of Graphs (ICML 2018) [[Paper]](https://arxiv.org/abs/1803.03324) [[Code]](https://github.com/JiaxuanYou/graph-generation/blob/master/main_DeepGMG.py) (Techs - RNN: LSTM)
 - MolecularRNN: Generating realistic molecular graphs with optimized properties (arXiv 2019) [[Paper]](https://arxiv.org/abs/1905.13372)
+- A Deep-Learning View of Chemical Space Designed to Facilitate Drug Discovery (aka: DESMILES; J Chem Inf Model 2020) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00321)
 
 <a name="gnn" />
 
