@@ -1,13 +1,28 @@
 # 👏 A Survey of Artificial Intelligence in Drug Discovery
 
 💡 Artificial intelligence has been widely applied in drug discovery over the past decade and is still gaining popularity.
-This repository compiles a collection works on related areas, based on the manuscript [Artificial Intelligence in Drug Discovery: Applications and Techniques](https://www.researchgate.net/publication/352308845_Artificial_Intelligence_in_Drug_Discovery_Applications_and_Techniques) by Jianyuan Deng et al. Hope you will find it useful for your research.
+This repository compiles a collection works on related areas, based on the manuscript [Artificial Intelligence in Drug Discovery: Applications and Techniques](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab430/6420092?redirectedFrom=fulltext) by Jianyuan Deng et al. Hope you will find it useful for your research (citation is provided below). 
 
 🔔 This repository is updated regularly. 
 
 <p align="center">
   <img width="820" height="360" src="/images/github21.png">
 </p>
+
+```bibtex
+@article{10.1093/bib/bbab430,
+    title = "{Artificial intelligence in drug discovery: applications and techniques}",
+    author = {Deng, Jianyuan and Yang, Zhibo and Ojima, Iwao and Samaras, Dimitris and Wang, Fusheng},
+    journal = {Briefings in Bioinformatics},
+    year = {2021},
+    month = {11},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbab430},
+    url = {https://doi.org/10.1093/bib/bbab430},
+    note = {bbab430},
+    eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbab430/41068728/bbab430.pdf},
+}
+```
 
 ---
 ## Contents
@@ -565,3 +580,4 @@ This repository compiles a collection works on related areas, based on the manus
 <i>*Model Adoption*</i>
 
 - A Turing Test for Molecular Generators (J Med Chem 2020) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01148)
+
