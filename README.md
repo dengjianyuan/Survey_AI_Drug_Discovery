@@ -582,3 +582,12 @@ This repository compiles a collection works on related areas, based on the manus
 
 - A Turing Test for Molecular Generators (J Med Chem 2020) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01148)
 
+<i>*Molecular Docking*</i>
+
+- Docking and scoring in virtual screening for drug discovery: methods and applications (Nat Rev Drug Discov 2004) [[Paper]](https://www.nature.com/articles/nrd1549.pdf)
+- Benchmarking sets for molecular docking (J Med Chem 2006) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/jm0608356)
+- Molecular Docking: A powerful approach for structure-based drug discovery (Curr Comput Aided Drug Des 2011) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3151162/pdf/nihms-308746.pdf)
+- Software for Molecular Docking: a review (Biophys Rev 2017) [[Paper]](https://link.springer.com/content/pdf/10.1007/s12551-016-0247-1.pdf)
+- Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery (ACS Cent Sci 2020) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.0c00229)
+- A Deep-Learning Approach toward Rational Molecular Docking Protocol Selection (Molecules 2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321124/pdf/molecules-25-02487.pdf)
+- GNINA 1.0: molecular docking with deep learning (J Cheminf 2021) [[Paper]](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-021-00522-2.pdf)
