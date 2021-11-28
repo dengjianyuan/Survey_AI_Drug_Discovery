@@ -408,6 +408,7 @@ This repository compiles a collection works on related areas, based on the manus
 - GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (aka: GraphAF; ICLR 2020) [[Paper]](https://openreview.net/pdf?id=S1esMkHYPr) [[Code]](https://github.com/DeepGraphLearning/GraphAF) (Techs - Flow + RL: PPO)
 - MoFlow: An Invertible Flow Model for Generating Molecular Graphs (aka: MoFlow; KDD 2020) [[Paper]](https://arxiv.org/pdf/2006.10137.pdf) [[Code]](https://github.com/calvin-zcx/moflow)
 - GraphDF: A Discrete Flow Model for Molecular Graph Generation (aka: GraphDF; ICML 2021) [[Paper]](https://arxiv.org/abs/2102.01189)
+- Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2106.04399.pdf)
 
 
 <a name="transformer" />
