@@ -46,6 +46,7 @@ This repository compiles a collection works on related areas, based on the manus
       - [Guacamol](#guacamol)  
       - [MOSES](#moses) 
       - [GraphINVENT](#graphinvent)
+      - [ATOM3D](#atom3d)
 
 - [Model Architectures](#architec)
   - [Convolutional Neural Networks](#cnn)
@@ -229,6 +230,11 @@ This repository compiles a collection works on related areas, based on the manus
 <b>MOSES</b>
 
 - Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models (Front Pharmacol 2020) [[Paper]](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full) [[Code]](https://github.com/molecularsets/moses)
+
+<a name="atom3d" />
+<b>ATOM3D</b>
+
+- ATOM3D: Tasks On Molecules in Three Dimensions (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2012.04035.pdf) [[Code]](https://github.com/drorlab/atom3d) [[Website]](https://www.atom3d.ai/)
 
 ---
 <a name="architec" />
