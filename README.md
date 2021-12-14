@@ -281,8 +281,9 @@ This repository compiles a collection works on related areas, based on the manus
 - Molecular de‑novo design through deep reinforcement learning (aka: REINVENT; J Cheminf 2017) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) (Techs - RNN: GRU + RL: Policy-gradient REINFORCE)
 - Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks (aka: CharRNN; ACS Cent Sci 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00512) (Techs - Transfer Learning)
 - Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design (ICLR 2018 Workshop) [[Paper]](https://openreview.net/pdf?id=Bk0xiI1Dz) (Techs - RL: Hybrid A2C, Policy-gradient PPO) 
-- Deep Reinforcement Learning for de novo Drug Design（aka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: REINFORCE)
+- Deep Reinforcement Learning for de novo Drug Design（aka: ReLeaSE; Sci Adv 2018）[[Paper]](https://advances.sciencemag.org/content/4/7/eaap7885) [[Code]](https://github.com/isayev/ReLeaSE) (Techs - RL: Policy-gradient REINFORCE)
 - Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00325) [[Code]](https://github.com/stan-his/DeepFMPO) (Techs - RNN: BiLSTM + RL: Hybrid Actor-Critic)
+- Scaffold-Constrained Molecular Generation (J Chem Inf Model 2020) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.0c01015) (Techs - RL: Policy-based Hill Climbing)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
