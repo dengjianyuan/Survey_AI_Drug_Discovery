@@ -94,6 +94,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Advances and Challenges in Computational Target Prediction (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00832)
 - Duality of activity cliffs in drug discovery (Expert Opin Drug Discov 2019) [[Paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2019.1593371)
 - QSAR without borders (Chem Soc Rev 2020) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/cs/d0cs00098a#!divAbstract)
+- Designing small molecules for therapeutic success: A contemporary perspective (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621004244)
 
 <a name="aidd" />
 <b>1.2 Drug Discovery in the AI Era</b>
