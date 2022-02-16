@@ -10,17 +10,15 @@ This repository compiles a collection works on related areas, based on the manus
 </p>
 
 ```bibtex
-@article{10.1093/bib/bbab430,
-    title = "{Artificial intelligence in drug discovery: applications and techniques}",
-    author = {Deng, Jianyuan and Yang, Zhibo and Ojima, Iwao and Samaras, Dimitris and Wang, Fusheng},
-    journal = {Briefings in Bioinformatics},
-    year = {2021},
-    month = {11},
-    issn = {1477-4054},
-    doi = {10.1093/bib/bbab430},
-    url = {https://doi.org/10.1093/bib/bbab430},
-    note = {bbab430},
-    eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbab430/41068728/bbab430.pdf},
+@article{deng2022artificial,
+  title={Artificial intelligence in drug discovery: applications and techniques},
+  author={Deng, Jianyuan and Yang, Zhibo and Ojima, Iwao and Samaras, Dimitris and Wang, Fusheng},
+  journal={Briefings in Bioinformatics},
+  volume={23},
+  number={1},
+  pages={bbab430},
+  year={2022},
+  publisher={Oxford University Press}
 }
 ```
 
