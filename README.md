@@ -428,11 +428,16 @@ This repository compiles a collection works on related areas, based on the manus
 - SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery (aka: SMILES Transformer; arXiv 2019) [[Paper]](https://arxiv.org/pdf/1911.04738.pdf) [[Code]](https://github.com/DSPsleeporg/smiles-transformer)
 - ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction (aka: ChemBERTa; arXiv 2020) [[Paper]](https://arxiv.org/pdf/2010.09885.pdf) [[Code]](https://github.com/seyonechithrananda/bert-loves-chemistry)
 - Molecular representation learning with language models and domain-relevant auxiliary tasks (aka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
+- Algebraic graph-assisted bidirectional transformers for molecular property prediction (aka: AGBT; Nat Commun 2021) [[Paper]](https://www.nature.com/articles/s41467-021-23720-w.pdf) [[Code]](https://github.com/ChenDdon/AGBTcode)
 
 <i>Task*: Molecular Property Prediction; Representation*: Molecular Graphs</i>
 
 - Self-Supervised Graph Transformer on Large-Scale Molecular Data (aka: GROVER; NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2007.02835.pdf) [[Code]](https://github.com/tencent-ailab/grover) (Techs - Graph Transformer + Self-Supervised Learning)
 
+
+<i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
+
+- Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors (ACS Omega 2021) [[Paper]](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
