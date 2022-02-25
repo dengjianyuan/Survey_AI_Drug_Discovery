@@ -579,6 +579,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Gi and Pal Scores: Deep Neural Network Generalization Statistics (ICLR 2021 Workshop) [[Paper]](https://arxiv.org/pdf/2104.03469.pdf)
 - Probabilistic Random Forest improves bioactivity predictions close to the classification threshold by taking into account experimental uncertainty (J Cheminf 2021) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00539-7)
 
+
 <i>*Representation Capacity*</i>
 
 - Ligand-Based Virtual Screening Using Graph Edit Distance as Molecular Similarity Measure (J Chem Inf Model 2019) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00820)
@@ -589,6 +590,10 @@ This repository compiles a collection works on related areas, based on the manus
 - Dissecting Machine-Learning Prediction of Molecular Activity: Is an Applicability Domain Needed for Quantitative Structure−Activity Relationship Models Based on Deep Neural Networks? (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.8b00348)
 - Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00403)
 - Molecular Similarity-Based Domain Applicability Metric Efficiently Identifies Out-of-Domain Compounds (J Chem Inf Model 2018) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00597)
+
+<i>*Threshold Adjustment*</i>
+
+- GHOST: Adjusting the Decision Threshold to Handle Imbalanced Data in Machine Learning (J Chem Inf Model 2021) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c00160) [[Code]](https://github.com/rinikerlab/GHOST)
 
 <i>*Model Comparison*</i>
 
