@@ -597,6 +597,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>*Model Comparison*</i>
 
+- Validating the validation: reanalyzing a large‑scale comparison of deep learning and machine learning models for bioactivity prediction (J Comput Aided Mol Des 2020) [[Paper]](https://link.springer.com/content/pdf/10.1007/s10822-019-00274-0.pdf)
 - Comparing classification models-a practical tutorial (J Comput Aided Mol Des 2021) [[Paper]](https://link.springer.com/content/pdf/10.1007/s10822-021-00417-2.pdf)
 
 <i>*Model Adoption*</i>
