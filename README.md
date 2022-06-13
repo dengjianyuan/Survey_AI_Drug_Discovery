@@ -119,6 +119,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Explainable Machine Learning for Property Predictions in Compound Optimization (J Med Chem 2021) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.1c01789)
 - A decade of machine learning-based predictive models for human pharmacokinetics: Advances and challenges (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621004074?casa_token=sK22jMzNedAAAAAA:rWJwKYq02MtrpfsPZsBDntMUwbCwQIGG65KZ28H-qJZfo3sPaNNFTiE7ECAJs-5R_X7pKu7xQga9)
 - Defining Levels of Automated Chemical Design (J Med Chem 2022) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.2c00334)
+- Evaluation guidelines for machine learning tools in the chemical sciences (Nat Rev Chem 2022) [[Paper]](https://www.nature.com/articles/s41570-022-00391-9)
 
 <i>Side Notes: Successful Applications </i>
 
