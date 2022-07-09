@@ -471,7 +471,8 @@ This repository compiles a collection works on related areas, based on the manus
 
 <i>Contrastive Learning</i>
 
-- MolCLR: Molecular Contrastive Learning of Representations via Graph Neural Networks (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2102.10056.pdf)
+- MolCLR: Molecular Contrastive Learning of Representations via Graph Neural Networks (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2102.10056.pdf) [[Code]](https://github.com/yuyangw/MolCLR)
+- Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast (J Chem Inf Model 2022) [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00495) [[Code]](https://github.com/yuyangw/iMolCLR)
 
 
 <a name="rl" />
