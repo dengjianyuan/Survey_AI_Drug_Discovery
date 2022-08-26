@@ -93,6 +93,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Duality of activity cliffs in drug discovery (Expert Opin Drug Discov 2019) [[Paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2019.1593371)
 - QSAR without borders (Chem Soc Rev 2020) [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2020/cs/d0cs00098a#!divAbstract)
 - Designing small molecules for therapeutic success: A contemporary perspective (Drug Discov Today 2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1359644621004244)
+- Phenotypic drug discovery: recent successes, lessons learned and new directions (Nat Rev Drug Discov 2022) [[Paper]](https://www.nature.com/articles/s41573-022-00472-w.pdf)
 - Is the reductionist paradox an Achilles Heel of drug discovery? (J Comput Aided Mol 2022) [[Paper]](https://link.springer.com/content/pdf/10.1007/s10822-022-00457-2.pdf)
 
 <a name="aidd" />
