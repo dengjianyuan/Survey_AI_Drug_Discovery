@@ -434,6 +434,7 @@ This repository compiles a collection works on related areas, based on the manus
 - ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction (aka: ChemBERTa; arXiv 2020) [[Paper]](https://arxiv.org/pdf/2010.09885.pdf) [[Code]](https://github.com/seyonechithrananda/bert-loves-chemistry)
 - Molecular representation learning with language models and domain-relevant auxiliary tasks (aka: MolBERT; NeurIPS 2020 Workshop) [[Paper]](https://arxiv.org/pdf/2011.13230.pdf) [[Code]](https://github.com/BenevolentAI/MolBERT) (Techs - BERT + Self-Supervised Learning)
 - Algebraic graph-assisted bidirectional transformers for molecular property prediction (aka: AGBT; Nat Commun 2021) [[Paper]](https://www.nature.com/articles/s41467-021-23720-w.pdf) [[Code]](https://github.com/ChenDdon/AGBTcode)
+- ChemBERTa-2: Towards Chemical Foundation Models (aka: ChemBERTa-2; arXiv 2022) [[Paper]](https://arxiv.org/pdf/2209.01712.pdf)
 
 <i>Task*: Molecular Property Prediction; Representation*: Molecular Graphs</i>
 
