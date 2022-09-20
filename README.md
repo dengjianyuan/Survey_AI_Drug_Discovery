@@ -445,6 +445,7 @@ This repository compiles a collection works on related areas, based on the manus
 <i>Task*: Molecule Generation; Representation*: SMILES Strings</i>
 
 - Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors (ACS Omega 2021) [[Paper]](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)
+- MolGPT: Molecular Generation Using a Transformer-Decoder Model (aka: MolGPT; J Chem Inf Model 2022) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) [[Code]](https://github.com/devalab/molgpt)
 
 <i>Task*: Molecule Generation; Representation*: Molecular Graphs</i>
 
