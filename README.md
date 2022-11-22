@@ -557,7 +557,7 @@ This repository compiles a collection works on related areas, based on the manus
 
 - ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction (aka: ASGN; KDD 2020) [[Paper]](https://arxiv.org/pdf/2007.03196.pdf) [[Code]](https://github.com/HaoZhongkai/AS_Molecule) (Techs - Active Learning)
 - Evidential Deep Learning for Guided Molecular Property Prediction and Discovery (NeurIPS 2020 Workshop) [[Talk]](https://slideslive.at/38942396/evidential-deep-learning-for-guided-molecular-property-prediction-and-discovery?ref=speaker-17456-latest)
-
+- Batched Bayesian Optimization for Drug Design in Noisy Environments (J Chem Inf Model 2022) [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00602) [[Code]](https://github.com/hugobellamy/JCIM-ALNoise)
 
 
 ---
