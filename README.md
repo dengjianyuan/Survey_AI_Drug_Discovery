@@ -80,6 +80,7 @@ This repository compiles a collection works on related areas, based on the manus
 - Chemical space and biology (Nature 2004) [[Paper]](https://www.nature.com/articles/nature03192)
 - Computer-based de novo design of drug-like molecules (Nat Rev Drug Discov 2005) [[Paper]](https://www.nature.com/articles/nrd1799)
 - On Outliers and Activity Cliffs-Why QSAR Often Disappoints (J Chem Inf Model 2006) [[Paper]](https://pubs.acs.org/doi/10.1021/ci060117s)
+- Evaluating Virtual Screening Methods:  Good and Bad Metrics for the “Early Recognition” Problem (J Chem Inf Model 2007) [[Paper]](https://pubs.acs.org/doi/10.1021/ci600426e)
 - Virtual screening: an endless staircase? (Nat Rev Drug Discov 2010) [[Paper]](https://www.nature.com/articles/nrd3139)
 - Privileged Scaffolds for Library Design and Drug Discovery (Curr Opin Chem Biol 2010) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908274/pdf/nihms218619.pdf)
 - Principles of early drug discovery (Br J Pharmacol 2011) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058157/)
