@@ -623,3 +623,6 @@ This repository compiles a collection works on related areas, based on the manus
 - Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery (ACS Cent Sci 2020) [[Paper]](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.0c00229)
 - A Deep-Learning Approach toward Rational Molecular Docking Protocol Selection (Molecules 2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321124/pdf/molecules-25-02487.pdf)
 - GNINA 1.0: molecular docking with deep learning (J Cheminf 2021) [[Paper]](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-021-00522-2.pdf)
+
+<i>*Molecular Fragmentation & Assembly*</i>
+- Molecular generation by Fast Assembly of (Deep)SMILES fragments (J Cheminf 2021) [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00566-4) [[Code]](https://github.com/UnixJunkie/FASMIFRA/tree/main)
